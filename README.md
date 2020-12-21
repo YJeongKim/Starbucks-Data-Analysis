@@ -28,9 +28,9 @@
 
     - 스타벅스와 커피전문점 별 연매출액 분석 ([@2minji1230](https://github.com/2minji1230))
 
-    - 서울 "스타벅스 vs 이디야" 의 매장 위치 분석 [@yoonyounghoon](https://github.com/yoonyounghoon)
+    - 서울 "스타벅스 vs 이디야" 의 매장 위치 분석 ([@yoonyounghoon](https://github.com/yoonyounghoon))
 
-    - 서울 구별 스타벅스 매장 수와 구별 1인당 평균 급여 소득 분석 [@yoonyounghoon](https://github.com/yoonyounghoon)
+    - 서울 구별 스타벅스 매장 수와 구별 1인당 평균 급여 소득 분석 ([@yoonyounghoon](https://github.com/yoonyounghoon))
 
     - "스타벅스 vs 투썸플레이스 vs 커피빈" 의 커피 종류 수 분석 ([@kyunghwan-im](https://github.com/kyunghwan-im))
 
